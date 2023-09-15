@@ -11,4 +11,18 @@ O objetivo é organizar pastas no windows para que fique mais organizado sua Ár
 - [@5265d](https://github.com/5265d)
 
 
+## Instalação
+
+Para instalar o teste dessa aplicação.
+
+[Releases](https://github.com/5265d/OrganizaSync/releases/tag/OrganizaSync)
+
+**Observação**
+
+Essa aplicação encontra-se em fase de **produção** ainda esta na BETA.
+## Funcionalidades
+
++ Organização
++ Agilidade
++ Acessibilidade 
 
